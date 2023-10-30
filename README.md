@@ -110,4 +110,4 @@ when done you can run:
 ```
 docker-compose -f docker-compose-zipkin.yml down
 ```
-DONE FIXED the typo 
+DONE FIXED the typo, 
